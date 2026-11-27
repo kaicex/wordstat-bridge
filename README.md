@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://chromewebstore.google.com/detail/deohadmdopjheebclbepkpiboiafjieo"><b>Установить из Chrome Web Store</b></a> ·
   <a href="https://github.com/kaicex/wordstat-bridge/releases/latest/download/wordstat-bridge.mcpb"><b>Скачать для Claude Desktop</b></a> ·
   <a href="https://www.npmjs.com/package/wordstat-bridge-mcp">npm</a> ·
   <a href="mailto:kayratdesign@gmail.com">Поддержка</a>
@@ -51,7 +52,7 @@
 
 ## Установка за 2 минуты
 
-1. **Расширение в браузер** — Wordstat Bridge из Chrome Web Store (Chrome, Яндекс Браузер и другие на Chromium).
+1. **Расширение в браузер** — [Wordstat Bridge в Chrome Web Store](https://chromewebstore.google.com/detail/deohadmdopjheebclbepkpiboiafjieo) (Chrome, Яндекс Браузер и другие на Chromium).
    После установки откроется гид по остальным шагам.
 2. **Сервер в Claude:**
    - **Claude Desktop** — скачайте [`wordstat-bridge.mcpb`](https://github.com/kaicex/wordstat-bridge/releases/latest/download/wordstat-bridge.mcpb)
